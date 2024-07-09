@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\bin\Debug\net8.0-windows\LogIn Screeen.exe
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\bin\Debug\net8.0-windows\LogIn Screeen.deps.json
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\bin\Debug\net8.0-windows\LogIn Screeen.runtimeconfig.json
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\bin\Debug\net8.0-windows\LogIn Screeen.dll
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\bin\Debug\net8.0-windows\LogIn Screeen.pdb
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\LogIn_Screeen.Form1.resources
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\LogIn Screeen.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\LogIn Screeen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\LogIn Screeen.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\LogIn Screeen.AssemblyInfo.cs
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\LogIn Screeen.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\LogIn Screeen.sourcelink.json
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\LogIn Screeen.dll
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\refint\LogIn Screeen.dll
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\LogIn Screeen.pdb
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\LogIn Screeen.genruntimeconfig.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\LogIn Screeen\obj\Debug\net8.0-windows\ref\LogIn Screeen.dll
