@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Drawing Canvas/1.0.0": {
+        "runtime": {
+          "Drawing Canvas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Drawing Canvas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

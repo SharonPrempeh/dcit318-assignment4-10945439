@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\bin\Debug\net8.0-windows\Drawing Canvas.exe
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\bin\Debug\net8.0-windows\Drawing Canvas.deps.json
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\bin\Debug\net8.0-windows\Drawing Canvas.runtimeconfig.json
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\bin\Debug\net8.0-windows\Drawing Canvas.dll
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\bin\Debug\net8.0-windows\Drawing Canvas.pdb
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\Drawing_Canvas.Form1.resources
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\Drawing Canvas.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\Drawing Canvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\Drawing Canvas.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\Drawing Canvas.AssemblyInfo.cs
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\Drawing Canvas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\Drawing Canvas.sourcelink.json
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\Drawing Canvas.dll
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\refint\Drawing Canvas.dll
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\Drawing Canvas.pdb
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\Drawing Canvas.genruntimeconfig.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Drawing Canvas\obj\Debug\net8.0-windows\ref\Drawing Canvas.dll
