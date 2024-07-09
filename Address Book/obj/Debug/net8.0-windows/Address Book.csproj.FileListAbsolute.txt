@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\bin\Debug\net8.0-windows\Address Book.exe
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\bin\Debug\net8.0-windows\Address Book.deps.json
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\bin\Debug\net8.0-windows\Address Book.runtimeconfig.json
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\bin\Debug\net8.0-windows\Address Book.dll
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\bin\Debug\net8.0-windows\Address Book.pdb
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\Address_Book.Form1.resources
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\Address Book.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\Address Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\Address Book.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\Address Book.AssemblyInfo.cs
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\Address Book.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\Address Book.sourcelink.json
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\Address Book.dll
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\refint\Address Book.dll
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\Address Book.pdb
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\Address Book.genruntimeconfig.cache
+C:\Users\HP\source\repos\dcit318-assignment4-10945439\Address Book\obj\Debug\net8.0-windows\ref\Address Book.dll
